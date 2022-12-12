@@ -3,7 +3,7 @@
 ## Descrição
 Este repositório contém o trabalho 5 da disciplina de laborátorio de programação, que contém uma função para criar uma estrutura para uma heap. Além de funções para inserir e remover números inteiros nesta heap de forma que respeite os princípios dessa estrutura.
 
-## Primeiros passos
+## Requisitos
 Primeiramente é necessário ter o `gcc` em sua máquina.
 
 ## Download
